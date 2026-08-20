@@ -1,0 +1,14 @@
+{
+  "name": "kanban",
+  "description": "Kanban's own plugin marketplace: the tiered backlog skill and scripts for repos that want to replace a next_steps.md-style doc.",
+  "owner": {
+    "name": "Dean Wilson"
+  },
+  "plugins": [
+    {
+      "name": "kanban",
+      "source": "./",
+      "description": "A tiered Epic/Feature/Story/Task backlog stored as small per-item files plus small CSV indexes, queried through a script instead of read as prose."
+    }
+  ]
+}

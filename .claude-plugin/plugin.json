@@ -1,0 +1,7 @@
+{
+  "name": "kanban",
+  "description": "A tiered Epic/Feature/Story/Task backlog stored as small per-item files plus small CSV indexes, queried through a script instead of read as prose.",
+  "version": "1.0.0",
+  "author": { "name": "Dean Wilson" },
+  "license": "MIT"
+}
